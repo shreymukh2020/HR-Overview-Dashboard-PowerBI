@@ -32,18 +32,14 @@ hashtag#PowerBI hashtag#HRAnalytics hashtag#KPITracking hashtag#IBCS hashtag#Adv
 
 https://app.powerbi.com/reportEmbed?reportId=9dd51156-886d-465b-8fba-7ffe22aaaeca&autoAuth=true&ctid=8cff4a64-d644-45e8-bb6d-f44990d02c5a
 
-# Cover Page:
+# View 1:
 
-![image](https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Homepage.jpg)
+![image](https://github.com/shreymukh2020/HR-Overview-Dashboard-PowerBI/blob/main/HR%20Attrition%20Dashboard%20Linkedin%201.png)
 
-# Headcount Page:
+# View 2:
 
-![image](https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Headcount.jpg)
+![image]()
 
-# Turnover Page:
+![image]()
 
-![image](https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Turnover.jpg)
-
-# Retention Page:
-
-![image](https://github.com/shreymukh2020/PowerBI-HR-Analytics-Report-/blob/main/Retention.jpg)
+![image]()
