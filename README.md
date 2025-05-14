@@ -1,16 +1,32 @@
 # HR-Overview-Dashboard-PowerBI
-HR Overview Dashboard PowerBI
 
+## 📊 HR Overview Dashboard | Interactive Report with KPI Switching + SVG Custom Visuals with IBCS KPI Cards in Power BI
 
-HR Analytics Dashboard PowerBI
+Excited to share my latest Power BI project — an interactive HR Analytics Dashboard that delivers executive-ready insights across KPI Metrics headcount, hiring, attrition, and salary trends.
 
-Welcome to the HR Analytics Dashboard, presenting three insightful summary tabs: Headcount, Retention, and Turnover. 
+📌 Key Features:
+ ➡️ Field Parameters as custom slicer to toggle between Δ PY (absolute) and Δ PY% (percentage) views
+ ➡️ Disconnected KPI selector for switching between Headcount, Hires, Terminations, and Salary
+ ➡️ IBCS-styled KPI cards with Advanced DAX reference labels, SVG-based delta bars, and quarterly trend lines
+ ➡️ Custom SVG visuals with CSS styling for clean, scalable performance cues
+ ➡️ Dynamic format strings to auto-adjust %, currency, or count based on metric
+ ➡️ UX polish: Gridless tables, aligned columns, styled headers (YayText), PowerPoint-designed canvas
 
-Each tab offers a unique perspective, providing comprehensive data and actionable insights to drive strategic decision-making. 
+🎯 Enables HR teams to:
+ → Track YoY trends across key metrics
+ → Identify departments with high turnover
+ → Monitor salary shifts, hiring pace, and retention signals
 
-Explore the Headcount tab to understand our workforce demographics and trends. Delve into the Retention tab to uncover patterns influencing employee engagement and loyalty. Then, navigate to the Turnover tab to analyze churn rates and identify areas for improvement. 
+Link to the report: https://lnkd.in/emm9psk3
 
-With intuitive visuals and comprehensive data, this dashboard empowers leaders to make strategic decisions that nurture a thriving, engaged workforce.
+🙌 Huge thanks to Injae Park for his Power BI + IBCS training at skool.com/powerbipark
+
+ ✅ Use my affiliate link to join at the lowest available price: https://lnkd.in/eD8GMsg6
+
+🔧 Tools Used: Power BI | DAX | Power Query | Field Parameters | KPI Cards | SVG | PowerPoint | IBCS
+
+💬 How are you designing dashboards that make HR data easier to act on?
+hashtag#PowerBI hashtag#HRAnalytics hashtag#KPITracking hashtag#IBCS hashtag#AdvancedDAX hashtag#SVGVisuals hashtag#FieldParameters hashtag#UXinBI hashtag#Skool hashtag#InjaePark hashtag#DashboardDesign hashtag#PeopleAnalytics
 
 # PowerBI Report Link :  
 
