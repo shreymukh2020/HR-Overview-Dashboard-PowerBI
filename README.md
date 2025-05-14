@@ -20,11 +20,13 @@ Excited to share my latest Power BI project — an interactive HR Analytics Dash
 
 🎯 Enables HR teams to:
  
- → Track YoY trends across key metrics
- → Identify departments with high turnover
- → Monitor salary shifts, hiring pace, and retention signals
+✅ Track YoY trends across key metrics
+ 
+✅ Identify departments with high turnover
+ 
+ ✅ Monitor salary shifts, hiring pace, and retention signals
 
-Link to the report: https://lnkd.in/emm9psk3
+🎯 Link to the report: https://lnkd.in/emm9psk3
 
 🙌 Huge thanks to Injae Park for his Power BI + IBCS training at skool.com/powerbipark
 
@@ -46,6 +48,6 @@ https://app.powerbi.com/reportEmbed?reportId=9dd51156-886d-465b-8fba-7ffe22aaaec
 
 ![image](https://github.com/shreymukh2020/HR-Overview-Dashboard-PowerBI/blob/main/HR%20Attrition%20Dashboard%20Linkedin%202.png)
 
-![image]()
+![image](https://github.com/shreymukh2020/HR-Overview-Dashboard-PowerBI/blob/main/HR%20Overview%20Dashboard.png)
 
-![image]()
+
