@@ -5,14 +5,21 @@
 Excited to share my latest Power BI project — an interactive HR Analytics Dashboard that delivers executive-ready insights across KPI Metrics headcount, hiring, attrition, and salary trends.
 
 📌 Key Features:
+ 
  ➡️ Field Parameters as custom slicer to toggle between Δ PY (absolute) and Δ PY% (percentage) views
+ 
  ➡️ Disconnected KPI selector for switching between Headcount, Hires, Terminations, and Salary
+ 
  ➡️ IBCS-styled KPI cards with Advanced DAX reference labels, SVG-based delta bars, and quarterly trend lines
+ 
  ➡️ Custom SVG visuals with CSS styling for clean, scalable performance cues
+ 
  ➡️ Dynamic format strings to auto-adjust %, currency, or count based on metric
+ 
  ➡️ UX polish: Gridless tables, aligned columns, styled headers (YayText), PowerPoint-designed canvas
 
 🎯 Enables HR teams to:
+ 
  → Track YoY trends across key metrics
  → Identify departments with high turnover
  → Monitor salary shifts, hiring pace, and retention signals
@@ -26,7 +33,6 @@ Link to the report: https://lnkd.in/emm9psk3
 🔧 Tools Used: Power BI | DAX | Power Query | Field Parameters | KPI Cards | SVG | PowerPoint | IBCS
 
 💬 How are you designing dashboards that make HR data easier to act on?
-hashtag#PowerBI hashtag#HRAnalytics hashtag#KPITracking hashtag#IBCS hashtag#AdvancedDAX hashtag#SVGVisuals hashtag#FieldParameters hashtag#UXinBI hashtag#Skool hashtag#InjaePark hashtag#DashboardDesign hashtag#PeopleAnalytics
 
 # PowerBI Report Link :  
 
@@ -38,7 +44,7 @@ https://app.powerbi.com/reportEmbed?reportId=9dd51156-886d-465b-8fba-7ffe22aaaec
 
 # View 2:
 
-![image]()
+![image](https://github.com/shreymukh2020/HR-Overview-Dashboard-PowerBI/blob/main/HR%20Attrition%20Dashboard%20Linkedin%202.png)
 
 ![image]()
 
